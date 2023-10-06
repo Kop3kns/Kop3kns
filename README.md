@@ -13,7 +13,7 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python, 
 
 ---
 
-**Technologies & Tools 🌺**
+**Technologies & Tools**
 
 ![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Tool-Pandas-orange?style=for-the-badge&logo=pandas)
