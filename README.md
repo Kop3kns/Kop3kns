@@ -1,7 +1,7 @@
 <h1 align="center">🌴 Hello there! 🌴</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/99451723?v=4" width="250">
+  <img src="" width="250">
 </p>
 
 <h3 align="center">🌊 Kop3kns 🌊</h3>
