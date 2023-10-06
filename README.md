@@ -21,4 +21,4 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python, 
 
 ---
 
-🌴 Always looking for the next big wave in technology! Let's surf it together! 🌊
+Always looking for the next big wave in technology.
