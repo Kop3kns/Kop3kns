@@ -20,6 +20,7 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python a
 ![](https://img.shields.io/badge/Tool-Pandas-orange?style=for-the-badge&logo=pandas)
 ![](https://img.shields.io/badge/Tool-Xbox%20GDK-green?style=for-the-badge&logo=xbox)
 ![](https://img.shields.io/badge/Platform-TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
