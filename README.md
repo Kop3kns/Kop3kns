@@ -18,6 +18,9 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python, 
 ![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Tool-Pandas-orange?style=for-the-badge&logo=pandas)
 ![](https://img.shields.io/badge/Platform-TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=c-sharp)
+![](https://img.shields.io/badge/Tool-Xbox%20GDK-green?style=for-the-badge&logo=xbox)
+![](https://img.shields.io/badge/Platform-Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
