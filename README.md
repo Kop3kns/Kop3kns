@@ -1,9 +1,5 @@
 <h1 align="center">🌴 Hello there! 🌴</h1>
 
-<p align="center">
-  <img src="" width="250">
-</p>
-
 <h3 align="center">🌊 Kop3kns 🌊</h3>
 <p align="center">
   Python Writer 🐍 | Data Analyst 📊 | AI Developer 🤖
@@ -13,7 +9,7 @@
 
 **About Me 🏖️**
 
-I'm a tech enthusiast who tests AI, writes in Python, I craft, analyze, and innovate.
+I'm a tech enthusiast who finds new ways of working with AI. I write in Python, and create tools based off of abstract or hidden api's. I craft, analyze, and innovate.
 
 ---
 
