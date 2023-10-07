@@ -24,4 +24,8 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python a
 
 ---
 
+[![Kop3kns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kop3kns&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=2A75CF)](https://github.com/Kop3kns/github-readme-stats)
+
+---
+
 Always looking for the next big wave in technology.
