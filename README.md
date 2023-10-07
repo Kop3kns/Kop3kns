@@ -1,6 +1,6 @@
-<div align="center" style="background-image: url('https://img.freepik.com/free-photo/ultra-detailed-nebula-abstract-wallpaper-9_1562-754.jpg'); padding: 50px 0;">
+<div align="center" style="background-image: url('path_to_space_background_image'); padding: 50px 0;">
 
-🪐 Hello there! I'm Kop3kns, a software developer with a passion for space exploration! 🚀
+<h1>🪐 Hello there! I'm Kop3kns, a software developer with a passion for space exploration! 🚀</h1>
 
 ### 🌌 Tech Stack
 ![Python](https://img.shields.io/badge/Python-v3.8-3776AB)
