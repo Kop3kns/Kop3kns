@@ -26,7 +26,7 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python a
 
 **🌟 Featured Projects**
 
-- **[XUID Scraper](#)**: A tool designed for extracting XUIDs. 
+- **[XUID Scraper](https://github.com/Kop3kns/xuid-Scraper)**: A tool designed for extracting XUIDs. 
 
 ---
 
