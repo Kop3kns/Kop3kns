@@ -1,6 +1,6 @@
 <div align="center" style="background-image: url('path_to_space_background_image'); padding: 50px 0;">
 
-<h1>🪐 Hello there! I'm Kop3kns, a software developer with a passion for space exploration! 🚀</h1>
+<h1>Kop3kns</h1>
 
 ### 🌌 Tech Stack
 ![Python](https://img.shields.io/badge/Python-v3.8-3776AB)
