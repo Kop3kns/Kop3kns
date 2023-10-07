@@ -24,7 +24,20 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python a
 
 ---
 
+**🌟 Featured Projects**
+
+- **[XUID Scraper](#)**: A tool designed for extracting XUIDs. 
+
+---
+
 [![Kop3kns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kop3kns&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=2A75CF)](https://github.com/Kop3kns/github-readme-stats)
+
+---
+
+**🌱 Learning Goals**
+
+- Mastering C# and C++ to build fast and efficeint executables
+- Exploring cryptography
 
 ---
 
@@ -32,4 +45,4 @@ I'm a tech enthusiast who finds new ways of working with AI. I write in Python a
   <path fill="#0099ff" fill-opacity="1" d="M0,96L80,112C160,128,320,160,480,170.7C640,181,800,171,960,154.7C1120,139,1280,117,1360,106.7L1440,96L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
 </svg>
 
-Always looking for the next big wave in technology. 🏖️🌊
+**Always looking for the next big wave in technology. 🌊**
