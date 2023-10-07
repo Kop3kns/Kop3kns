@@ -2,7 +2,8 @@
 
 <h1>Kop3kns</h1>
 
-### 🌌 Tech Stack
+<h1>Tech Stack</h1>
+
 ![Python](https://img.shields.io/badge/Python-v3.8-3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![React](https://img.shields.io/badge/React-v17+-61DAFB)
