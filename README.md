@@ -2,8 +2,6 @@
 
 I'm a tech enthusiast who finds new ways of working with AI. I write in Python and C#, and create tools based off of abstract or hidden APIs. I craft, analyze, and innovate.
 
-![Space Odyssey](https://img.freepik.com/free-photo/ultra-detailed-nebula-abstract-wallpaper-9_1562-754.jpg?w=1800&t=st=1696641904~exp=1696642504~hmac=b5d73e0827385cf18062eb52637b747863b6792325ce47d91ca3c5caa7bec083)
-
 ## 🛸 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
