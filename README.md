@@ -1,28 +1,17 @@
-# Hello, I'm kop3kns 🌌
+<div align="center" style="background-image: url('https://img.freepik.com/free-photo/ultra-detailed-nebula-abstract-wallpaper-9_1562-754.jpg'); padding: 50px 0;">
 
-> "I'm a tech enthusiast exploring the universe of AI. Crafting with Python & C#, innovating with abstract APIs, and analyzing with tools beyond the stars."
+🪐 Hello there! I'm Kop3kns, a software developer with a passion for space exploration! 🚀
 
-<div align="center">
-    <img src="URL_TO_YOUR_SPACEY_IMAGE_OR_GIF" alt="Space Visual" width="300">
-</div>
+### 🌌 Tech Stack
+![Python](https://img.shields.io/badge/Python-v3.8-3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![React](https://img.shields.io/badge/React-v17+-61DAFB)
+![C#](https://img.shields.io/badge/C%23-.NET%205.0-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.5-orange)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Xbox GDK](https://img.shields.io/badge/Xbox%20GDK-107C10?logo=xbox&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.2.4-130454?logo=pandas&logoColor=white)
 
-## 🛠 Technologies
+![Kop3kns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kop3kns&show_icons=true&theme=radical)
 
-- **Languages**: Python, C#
-- **Tools**: Pandas, Xbox GDK
-- **Frameworks**: TensorFlow
-- **Editor**: VSCode
-
-<div align="center">
-    <a href="https://github.com/kop3kns/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kop3kns&show_icons=true&theme=graywhite" alt="kop3kns's GitHub stats">
-    </a>
-</div>
-
----
-
-🔭 Explore my repositories and let's connect! Innovating together is the way forward.
-
-<div align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=kop3kns.kop3kns" alt="Visitors">
 </div>
