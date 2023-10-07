@@ -1,27 +1,30 @@
-<h1 align="center">🌴 Hello there! 🌴</h1>
+# 👽 Hello, i'm kop3kns 🚀
 
-<h3 align="center">🌊 Kop3kns 🌊</h3>
-<p align="center">
-  Python Writer 🐍 | Data Analyst 📊 | AI Developer 🤖
-</p>
+I'm a tech enthusiast who finds new ways of working with AI. I write in Python and C#, and create tools based off of abstract or hidden APIs. I craft, analyze, and innovate.
 
----
+![Space Odyssey](https://img.freepik.com/free-photo/ultra-detailed-nebula-abstract-wallpaper-9_1562-754.jpg?w=1800&t=st=1696641904~exp=1696642504~hmac=b5d73e0827385cf18062eb52637b747863b6792325ce47d91ca3c5caa7bec083)
 
-**About Me 🏖️**
+## 🛸 Technologies & Tools
 
-I'm a tech enthusiast who finds new ways of working with AI. I write in Python and C#, and create tools based off of abstract or hidden api's. I craft, analyze, and innovate.
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Xbox GDK](https://img.shields.io/badge/-Xbox%20GDK-green?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
 
----
+## 🌌 GitHub Odyssey
 
-**Technologies & Tools**
+![kop3kns's github stats](https://github-readme-stats.vercel.app/api?username=kop3kns&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kop3kns&layout=compact&theme=radical)](https://github.com/kop3kns/github-readme-stats)
 
-![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=c-sharp)
-![](https://img.shields.io/badge/Tool-Pandas-orange?style=for-the-badge&logo=pandas)
-![](https://img.shields.io/badge/Tool-Xbox%20GDK-green?style=for-the-badge&logo=xbox)
-![](https://img.shields.io/badge/Platform-TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+## 🚀 Additional Features
 
----
+> [Embed other dynamic features or widgets here]
 
-Always looking for the next big wave in technology.
+## 🌌 My work
+
+if you're ever interested in my posts reach out, I may respond if i see it.
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kop3kns.kop3kns)
+
