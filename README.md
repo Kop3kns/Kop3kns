@@ -1,18 +1,27 @@
-<div align="center" style="background-image: url('path_to_space_background_image'); padding: 50px 0;">
+<h1 align="center">🌴 Hello there! 🌴</h1>
 
-<h1>Kop3kns</h1>
+<h3 align="center">🌊 Kop3kns 🌊</h3>
+<p align="center">
+  Python Writer 🐍 | Data Analyst 📊 | AI Developer 🤖
+</p>
 
-<h1>Tech Stack</h1>
+---
 
-![Python](https://img.shields.io/badge/Python-v3.8-3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![React](https://img.shields.io/badge/React-v17+-61DAFB)
-![C#](https://img.shields.io/badge/C%23-.NET%205.0-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.5-orange)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Xbox GDK](https://img.shields.io/badge/Xbox%20GDK-107C10?logo=xbox&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.2.4-130454?logo=pandas&logoColor=white)
+**About Me 🏖️**
 
-![Kop3kns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kop3kns&show_icons=true&theme=radical)
+I'm a tech enthusiast who finds new ways of working with AI. I write in Python and C#, and create tools based off of abstract or hidden api's. I craft, analyze, and innovate.
 
-</div>
+---
+
+**Technologies & Tools**
+
+![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=c-sharp)
+![](https://img.shields.io/badge/Tool-Pandas-orange?style=for-the-badge&logo=pandas)
+![](https://img.shields.io/badge/Tool-Xbox%20GDK-green?style=for-the-badge&logo=xbox)
+![](https://img.shields.io/badge/Platform-TensorFlow-yellow?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+Always looking for the next big wave in technology.
